@@ -4,7 +4,7 @@ ShoppyGlobe is a modern, responsive e-commerce web application built with **Reac
 
 👉 **GitHub Repository:** [https://github.com/loganx8202/Shoppy-globe](https://github.com/loganx8202/Shoppy-globe)  
 👉 **Live Demo:** *(coming soon)*
-
+Deployed project https://radiant-dieffenbachia-e1b9c7.netlify.app/
 ## ⚙️ Installation
 
 Clone the repository:
